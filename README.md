@@ -11,8 +11,7 @@
 
 
 
-<h3 align="left" >Connect with me:</h3>
-<p align="left" >
-<a href="https://www.linkedin.com/public-profile/settings" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmed-hanye-a66096253" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ahmedhanye161004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ahmedhanye161004" height="50" width="50" /></a>
+<h3 align="left" style="display: inline">Connect with me:</h3>
+<p align="left" style="display: inline">
+<a href="https://www.linkedin.com/in/ahmed-hanye-a66096253" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 </p>
