@@ -26,3 +26,4 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="40" width="40" />
   </a>
 </p>
+google-site-verification: googled2774f2ebc5600d5.html
