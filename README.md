@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed Hanye</h1>
 <h3 align="center">Software Engineer 👨‍💻</h3>
-<p align="center"></p>
+
 <p align="center">
   <img
     src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
@@ -12,16 +12,8 @@
 <h3 align="center">Languages and Tools:</h3>
 <p
   align="center"
-  style="
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    padding: 0.5rem;
-    flex-wrap: wrap;
-    border-radius: 0.5rem;
-  "
 >
-  <a href="https://www.gnu.org/software/bash/" target="_blank" style="display=block" rel="noreferrer">
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"
       alt="bash"
