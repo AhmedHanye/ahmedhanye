@@ -9,6 +9,7 @@
   />
 </p>
 
+
 <h3 align="center">Languages and Tools:</h3>
 <p
   align="center"
@@ -166,7 +167,13 @@
     />
   </a>
 </p>
-
+<p align="center">
+  <img
+    src="octocat.png"
+    alt="Coding GIF"
+    width="80%"
+  />
+</p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/ahmed-hanye-a66096253" target="_blank">
