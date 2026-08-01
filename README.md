@@ -1,9 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Ahmed Hanye
 ====================================================================================================================================
 
-Software Engineer
------------------
-
 An engineering-focused developer specializing in building high-performance, local-first web applications. I bridge the gap between pixel-perfect, highly interactive frontends and robust, type-safe backends. I architect systems using modern patterns like Feature-Sliced Design (FSD) and next-generation tooling.
 
 * 🌍  I'm based in Egypt
