@@ -1,16 +1,40 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Ahmed Hanye
-====================================================================================================================================
+# Hi, I'm Ahmed Hanye 👋
 
-An engineering-focused developer specializing in building high-performance, local-first web applications. I bridge the gap between pixel-perfect, highly interactive frontends and robust, type-safe backends. I architect systems using modern patterns like Feature-Sliced Design (FSD) and next-generation tooling.
+Full-Stack Software Engineer specializing in modern web applications, responsive client interfaces, and scalable backend systems across TypeScript and Python. Dedicated to clean architecture (Feature-Sliced Design), containerized services (Docker), and automated testing (Playwright).
 
-* 🌍  I'm based in Egypt
-* 🖥️  See my portfolio at [My Portfolio](http://ahmedhanye.me)
-* ✉️  You can contact me at [ahmedhanyehossny@gmail.com](mailto:ahmedhanyehossny@gmail.com)
+- 🌍 Based in **Egypt** (Open to Remote Worldwide & Relocation)
+- 🖥️ Explore my interactive portfolio: [ahmedhanye.tech](https://www.ahmedhanye.tech)
+- ✉️ Contact: [ahmedhanyehossny@gmail.com](mailto:ahmedhanyehossny@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/ahmed-hanye](https://www.linkedin.com/in/ahmed-hanye/)
+
+---
+
+### 🚀 Featured Projects
+
+- 💻 **[Retro OS & 3D Interactive Portfolio](https://github.com/AhmedHanye/portfolio)** — Dual-experience portfolio combining an interactive 3D CRT workstation and a simulated Windows 95 desktop OS (*Next.js 16, React 19, Three.js, GSAP, React95*).
+- 🛡️ **[Security-Plus](https://github.com/AhmedHanye/Security-Plus)** — Manifest V3 browser security extension intercepting page navigation for real-time threat intelligence via VirusTotal & WhoIs APIs (*React 19, TypeScript, Tailwind CSS, Playwright*).
+- 🔒 **[Ultimate-Auth](https://github.com/AhmedHanye/Ultimate-Auth)** — Production-oriented 3-tier authentication engine with Google & GitHub OAuth (*Django REST Framework, React, PostgreSQL, Docker Compose*).
+- ✨ **[Awwards](https://github.com/AhmedHanye/awwwards)** — High-framerate interactive web showcase demonstrating 60 FPS GSAP animation orchestration (*React 19, Tailwind CSS, GSAP, ScrollTrigger*).
+
+---
+
+### 🛠️ Tech Stack & Skills
+
+- **Languages:** TypeScript, JavaScript, Python, SQL, Bash, HTML5/CSS3
+- **Frontend:** React 19, Next.js (App Router), Tailwind CSS v4, GSAP, Three.js / R3F, TanStack Query, shadcn/ui
+- **Backend & Data:** Django REST Framework, Django Ninja, PostgreSQL, SQLite, MySQL, Docker & Docker Compose
+- **Quality & Testing:** Playwright (E2E), Vitest, Pytest, Storybook, ESLint, React Doctor, Fallow
+
+---
+
+### 📬 Connect With Me
 
 <p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" alt="GNU Bash" title="GNU Bash" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" alt="NextJs" title="NextJs" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" title="Vite" width="36" height="36" /></a><a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/shadcnui-colored.svg" alt="Shadcn/ui" title="Shadcn/ui" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" alt="Django" title="Django" width="36" height="36" /></a>
+  <a href="https://www.linkedin.com/in/ahmed-hanye" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/AhmedHanye" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" />
+  </a>
 </p>
-
-### Socials
-
-<p align="left"> <a href="https://www.linkedin.com/in/ahmed-hanye" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> <a href="https://www.github.com/AhmedHanye" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a></p>
